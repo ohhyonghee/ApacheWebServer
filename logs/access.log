@@ -1244,3 +1244,12 @@
 ::1 - - [02/Apr/2022:19:28:48 +0900] "-" 408 -
 ::1 - - [02/Apr/2022:19:31:16 +0900] "GET /test.html HTTP/1.1" 200 66
 ::1 - - [02/Apr/2022:19:31:38 +0900] "GET /phpinfo.php HTTP/1.1" 200 22310
+::1 - - [02/Apr/2022:19:51:47 +0900] "GET /cautionweb/index.html HTTP/1.1" 200 309
+::1 - - [02/Apr/2022:19:51:47 +0900] "GET /cautionweb/style.css HTTP/1.1" 200 99
+::1 - - [02/Apr/2022:19:51:47 +0900] "GET /cautionweb/img.jpg HTTP/1.1" 200 81945
+::1 - - [02/Apr/2022:19:54:05 +0900] "GET / HTTP/1.1" 200 966
+::1 - - [02/Apr/2022:19:54:05 +0900] "GET /bitnami.css HTTP/1.1" 200 674
+::1 - - [02/Apr/2022:19:54:05 +0900] "GET /img/bitnami.png?1186088387 HTTP/1.1" 200 3738
+::1 - - [02/Apr/2022:19:54:05 +0900] "GET /img/tab1_welcome.png HTTP/1.1" 200 1009
+::1 - - [02/Apr/2022:19:54:05 +0900] "GET /img/wampstack.png HTTP/1.1" 200 3774
+::1 - - [02/Apr/2022:19:54:05 +0900] "GET /img/tabs_bg.png HTTP/1.1" 200 214
