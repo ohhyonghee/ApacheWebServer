@@ -1322,3 +1322,4 @@ VirtualProtect() failed [87] 매개 변수가 틀립니다
 [Sat Apr 02 19:54:19.983434 2022] [mpm_winnt:notice] [pid 20276:tid 648] AH00418: Parent: Created child process 7424
 [Sat Apr 02 19:54:20.598198 2022] [ssl:warn] [pid 7424:tid 492] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
 [Sat Apr 02 19:54:20.649530 2022] [ssl:warn] [pid 7424:tid 492] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Apr 02 19:54:20.693325 2022] [mpm_winnt:notice] [pid 7424:tid 492] AH00354: Child: Starting 64 worker threads.
